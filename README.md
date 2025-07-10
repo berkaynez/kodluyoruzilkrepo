@@ -27,4 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Project View
 
-![Project](image.jpg)
+![Project](https://github.com/berkaynez/kodluyoruzilkrepo/blob/main/figures/image.jpg?raw=true)
